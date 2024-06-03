@@ -1,11 +1,11 @@
 <template>
-  <router-view v-slot="{ Component }">
-    <keep-alive :include="[]">
-      <component :is="Component" />
-    </keep-alive>
-  </router-view>
+  <Transfer/>
 </template>
-<script>
-export default {};
+
+
+<script setup>
+
 </script>
-<style></style>
+
+
+<style lang="scss" scoped></style>

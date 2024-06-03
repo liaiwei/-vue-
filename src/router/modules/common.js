@@ -1,4 +1,4 @@
-import home from '@/pages/common/home-page.vue';
+import App from '@/App.vue';
 import notFound from '@/pages/common/not-found.vue';
 
 const routes = [
@@ -8,7 +8,7 @@ const routes = [
       title: 'Home',
       notAuth: true
     },
-    component: home
+    component: App
   },
   {
     path: '/:pathMatch(.*)',
