@@ -38,22 +38,22 @@ const data = [
     title: '小米',
     data: [
       {
-        id: 1,
+        id: 5,
         phone_name: '小米10',
         disabled: true
       },
       {
-        id: 2,
+        id: 6,
         phone_name: '小米11',
         disabled: false
       },
       {
-        id: 3,
+        id: 7,
         phone_name: '红米',
         disabled: false
       },
       {
-        id: 4,
+        id: 8,
         phone_name: '红米2',
         disabled: false
       },
@@ -64,22 +64,22 @@ const data = [
     title: 'iphone',
     data: [
       {
-        id: 1,
+        id: 9,
         phone_name: 'iphone 10',
         disabled: false
       },
       {
-        id: 2,
+        id: 10,
         phone_name: 'iphone 11',
         disabled: false
       },
       {
-        id: 3,
+        id: 11,
         phone_name: 'iphone 12',
         disabled: true
       },
       {
-        id: 4,
+        id: 12,
         phone_name: 'iphone 14',
         disabled: false
       },
