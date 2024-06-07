@@ -2033,6 +2033,11 @@ delayed-stream@~1.0.0:
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==
 
+delfin@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/delfin/-/delfin-1.2.5.tgz#cacff7f396bd13dfd5011345145f3902d4f164c3"
+  integrity sha512-EFpwdWZVPYatnAhxvvkY3iuuLMHUONflErba9DFmRs38XykjFhCGW+gy+X5k8uXQke0pzSIHJA1Ql0G4Hl7bfg==
+
 diff-sequences@^29.4.3:
   version "29.6.3"
   resolved "https://registry.yarnpkg.com/diff-sequences/-/diff-sequences-29.6.3.tgz#4deaf894d11407c51efc8418012f9e70b84ea921"

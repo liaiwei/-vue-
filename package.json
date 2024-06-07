@@ -13,6 +13,7 @@
   "dependencies": {
     "axios": "^1.5.1",
     "dayjs": "^1.11.10",
+    "delfin": "^1.2.5",
     "dmc-utils": "^0.1.13",
     "lodash": "^4.17.21",
     "pinia": "^2.1.6",

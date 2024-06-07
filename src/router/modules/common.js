@@ -1,14 +1,22 @@
-import App from '@/App.vue';
-import notFound from '@/pages/common/not-found.vue';
-
+import Transfer from '../../pages/transfer/Index.vue';
+import notFound from '../../pages/common/not-found.vue';
+import Comment from '../../pages/comment/Index.vue'
 const routes = [
   {
-    path: '/',
+    path: '/transfer',
     meta: {
-      title: 'Home',
+      title: 'transfer',
       notAuth: true
     },
-    component: App
+    component: Transfer
+  },
+  {
+    path: '/comment',
+    meta: {
+      title: 'comment',
+      notAuth: true
+    },
+    component: Comment
   },
   {
     path: '/:pathMatch(.*)',
